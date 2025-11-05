@@ -1,4 +1,4 @@
-module github.com/open-uem/wingetcfg
+module github.com/scncore/wingetcfg
 
 go 1.24.4
 
